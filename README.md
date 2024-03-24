@@ -3,9 +3,9 @@ This repository contains the provided tasks for the coding challenges in directo
 
 Task1: using callbacks\
 Task2: using async.js\
-Task3: using promises\
+Task3: using promises
 
 -> Clone the project\
 -> go to the task folder\
 -> run npm install\
--> to serve the api run node index.js\
+-> to serve the api run node index.js
