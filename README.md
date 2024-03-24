@@ -1,4 +1,4 @@
-#Go Icon Coding Challenge#/
+Go Icon Coding Challenge\
 This repository contains the provided tasks for the coding challenges in directories Task1, Task2 and Task2/
 
 Task1: using callbacks/
